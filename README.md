@@ -9,7 +9,7 @@ Azure OpenAI Service への接続フローも含まれています。
 ![image](https://github.com/geekfujiwara/KBAppLite/assets/96101315/b2da70b1-4a52-40ad-9300-dc6835acc4e7)
 
 ## ナレッジ承認
-ナレッの承認を行うことが出来ます。コマンドバーの「ナレッジ承認」からクリックするとカスタムページが起動します。
+ナレッジの承認を行うことが出来ます。コマンドバーの「ナレッジ承認」からクリックするとカスタムページが起動します。
 
 ![image](https://github.com/geekfujiwara/KBAppLite/assets/96101315/db43c44a-c658-4307-b1ce-97a1c29ea82a)
 
@@ -74,7 +74,7 @@ https://learn.microsoft.com/ja-jp/power-apps/maker/data-platform/import-update-e
 Azure OpenAI Serivce の利用を行うには、エンドポイントURIとAPI-KEYを指定する必要があります。
 
 ## ご利用マニュアルのURL
-説明を起きたい場合、URLを設定するようにしてください。
+説明を置きたい場合、URLを設定するようにしてください。
 
 ![image](https://github.com/geekfujiwara/KBAppLite/assets/96101315/b7e06a3c-addd-42fc-b247-ed847f30ab66)
 
